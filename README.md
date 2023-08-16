@@ -2,7 +2,7 @@
 
 # :man_student:Dashboard::atom:
 ![Trend of Filled Jobs Across Quarters by Industry](https://github.com/farhansadeed/Python-Business-Employment-Data-Analysis/blob/main/trend_filled_jobs.png)
-
+Fig 1: Trend of Filled Jobs Across Quarters by Industry
 
 ![Percentage Difference in Filled Jobs and Earnings by Industry by December 2022](https://github.com/farhansadeed/Python-Business-Employment-Data-Analysis/blob/main/percentage_difference_dec_2022.png)
 
