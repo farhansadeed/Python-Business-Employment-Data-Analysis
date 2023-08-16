@@ -31,12 +31,6 @@ The dataset provides a quarterly breakdown of:
 - **Matplotlib**: For creating visualizations.
 - **Seaborn**: For enhanced data visualization capabilities.
 
-## How to Reproduce
-
-1. Clone this repository.
-2. Install the required Python libraries using `pip install -r requirements.txt` (you may want to create a virtual environment first).
-3. Run the Jupyter notebook or Python script containing the analysis.
-
 
 <hr />
 <br />
